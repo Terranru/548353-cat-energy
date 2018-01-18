@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Дмитрий Красюков](https://up.htmlacademy.ru/adaptive/13/user/548353).
-* Наставник: Альбина Токарчук.
+* Наставник: Альбина Токарчук (https://htmlacademy.ru/profile/id167491).
 
 ---
 
